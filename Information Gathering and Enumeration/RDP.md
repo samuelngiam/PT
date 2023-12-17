@@ -1,6 +1,5 @@
 # RDP
-- Check for RDP at non-standard port
-  - Nmap will not identify RDP e.g. on port 3333
+- Check for RDP at non-standard port using MSF as nmap will not identify RDP e.g. on port 3333
 ```
 msfconsole
 
