@@ -9,5 +9,6 @@ Personal notes for penetration testing
   - [Wordlists](/Information%20Gathering%20and%20Enumeration/Wordlists.md)
 - Exploitation
   - [BadBlue](/Exploitation/BadBlue.md)
+  - [Rejetto](/Exploitation/Rejetto.md)
 - Post-Exploitation
   - [linPEAS](/Post-Exploitation/linPEAS.md)
