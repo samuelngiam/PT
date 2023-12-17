@@ -1,5 +1,5 @@
 # PT Compendium
-Personal notes for penetration testing
+Personal notes for penetration testing, compiled from my TryHackMe and eJPTv2 experiences.
 
 # Content
 - Information Gathering and Enumeration
