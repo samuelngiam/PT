@@ -7,4 +7,4 @@ Personal notes for penetration testing
   - HTTP
 - Exploitation
 - Post-Exploitation
-  - linPEAS
+  - [linPEAS](https://github.com/samuelngiam/PT-Compendium/blob/main/Post-Exploitation/linPEAS.md)
