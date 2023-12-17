@@ -1,5 +1,5 @@
 # RDP
-- Check for RDP at non-standard port.
+- Check for RDP at non-standard port
 ```
 msfconsole
 
