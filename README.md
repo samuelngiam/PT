@@ -3,7 +3,8 @@ Personal notes for penetration testing
 
 
 # Content
-- Information Gathering & Enumeration
+- Information Gathering and Enumeration
   - HTTP
 - Exploitation
 - Post-Exploitation
+  - linPEAS
