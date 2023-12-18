@@ -1,5 +1,5 @@
 # PT Compendium
-Personal notes for penetration testing, compiled from my TryHackMe and eJPTv2 experiences.
+Personal notes for penetration testing
 
 # Content
 - Information Gathering and Enumeration
@@ -13,4 +13,4 @@ Personal notes for penetration testing, compiled from my TryHackMe and eJPTv2 ex
   - [linPEAS](/Post-Exploitation/linPEAS.md)
   - [Shell Upgrade](Post-Exploitation/ShellUpgrade.md)
 - [Wordlists](/Wordlists.md)
-- [Completed Rooms](/CompletedRooms.md)
+- [TryHackMe](/TryHackMe.md)
