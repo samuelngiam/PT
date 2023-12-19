@@ -21,4 +21,6 @@ Personal notes for penetration testing
 - [MSF](/MSF.md)
 - [Wordlists](/Wordlists.md)
 - [TryHackMe](/TryHackMe.md)
+
+# Courses
 - [The Complete Mobile Ethical Hacking Course](/Courses/the-complete-mobile-ethical-hacking-course.md)
