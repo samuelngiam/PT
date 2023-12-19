@@ -1,5 +1,5 @@
 # FTP
 - Nmap scripts
 ```
-nmap -Pn -p21 --script=ftp-anon <ip>
+nmap -Pn -sV -p21 --script=ftp-anon <ip>
 ```
