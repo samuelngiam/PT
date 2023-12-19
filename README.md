@@ -10,6 +10,7 @@ Personal notes for penetration testing
 - Exploitation
   - [ARP Poisoning](/Exploitation/ARP-Poisoning.md)
   - [BadBlue](/Exploitation/BadBlue.md)
+  - [EternalBlue](/Exploitation/EternalBlue.md)
   - [Rejetto](/Exploitation/Rejetto.md)
 - Post-Exploitation
   - Privilege Escalation
@@ -17,6 +18,7 @@ Personal notes for penetration testing
   - Maintaining Persistent Access
   - Clearing Tracks
   - [Shell Upgrade](Post-Exploitation/Shell-Upgrade.md)
+- [MSF](/MSF.md)
 - [Wordlists](/Wordlists.md)
 - [TryHackMe](/TryHackMe.md)
 - [The Complete Mobile Ethical Hacking Course](/Courses/the-complete-mobile-ethical-hacking-course.md)
