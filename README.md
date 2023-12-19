@@ -14,7 +14,7 @@ Personal notes for penetration testing
   - [Rejetto](/Exploitation/Rejetto.md)
 - Post-Exploitation
   - Privilege Escalation
-    - [linPEAS](/Post-Exploitation/linPEAS.md) 
+    - [linPEAS](/Post-Exploitation/Privilege%20Escalation/linPEAS.md) 
   - Maintaining Persistent Access
   - Clearing Tracks
   - [Shell Upgrade](Post-Exploitation/Shell-Upgrade.md)
