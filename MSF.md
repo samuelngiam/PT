@@ -45,4 +45,14 @@ use <module_name> (or 'use <module_no>')
 sessions
 
 connect
+
+setg
+
+workspace -h
+workspace
+workspace -l
+workspace -a <name>
+workspace (becomes <name>)
+workspace default
+workspace (becomes 'default')
 ```
