@@ -1,7 +1,7 @@
 # HTTP
 - Nmap scripts
 ```
-nmap -Pn -p80 --script=http-enum <ip>
+nmap -Pn -sV -p80 --script=http-enum <ip>
 ```
 
 - Directories
