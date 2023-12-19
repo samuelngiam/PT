@@ -12,10 +12,11 @@ Personal notes for penetration testing
   - [BadBlue](/Exploitation/BadBlue.md)
   - [Rejetto](/Exploitation/Rejetto.md)
 - Post-Exploitation
-  - [linPEAS](/Post-Exploitation/linPEAS.md)
-  - [Meterpreter](/Post-Exploitation/Meterpreter.md)
+  - Privilege Escalation
+    - [linPEAS](/Post-Exploitation/linPEAS.md) 
+  - Maintaining Persistent Access
+  - Clearing Tracks
   - [Shell Upgrade](Post-Exploitation/Shell-Upgrade.md)
-- [MSF](/MSF.md)
 - [Wordlists](/Wordlists.md)
 - [TryHackMe](/TryHackMe.md)
 - [The Complete Mobile Ethical Hacking Course](/Courses/the-complete-mobile-ethical-hacking-course.md)
