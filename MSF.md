@@ -1,5 +1,6 @@
 # MSF
 
+## eJPT
 - Installing & Configuring MSF
 ```
 /usr/share/metasploit-framework
@@ -21,5 +22,16 @@ db_status
 
 - MSFconsole Fundamentals
 ```
+Ctrl + L
+
+help
+
+version
+
+show all
+show exploits
+
+search portscan
+use auxiliary/scanner/portscan/tcp
 
 ```
