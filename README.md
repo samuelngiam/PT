@@ -1,4 +1,4 @@
-# PT Compendium
+# PT
 Personal notes for penetration testing
 
 # Content
