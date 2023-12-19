@@ -1,12 +1,12 @@
 # MSF
 
-## eJPT
-- Installing & Configuring MSF
+- Path
 ```
 /usr/share/metasploit-framework
+```
 
-sudo apt-get update && sudo apt-get install metasploit-framework
-
+- Database
+```
 sudo systemctl enable postgresql
 sudo systemctl start postgresql
 sudo systemctl status postgresql
@@ -20,7 +20,7 @@ msfconsole
 db_status
 ```
 
-- MSFconsole Fundamentals
+- MSFconsole
 ```
 Ctrl + L
 
@@ -31,7 +31,18 @@ version
 show all
 show exploits
 
-search portscan
-use auxiliary/scanner/portscan/tcp
+search 
+search -h
 
+show options (or 'options')
+
+run (or 'exploit')
+
+back
+
+use <module_name> (or 'use <module_no>')
+
+sessions
+
+connect
 ```
