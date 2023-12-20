@@ -20,39 +20,34 @@ msfconsole
 db_status
 ```
 
-- MSFconsole
+- Workspaces
 ```
-Ctrl + L
-
-help
-
-version
-
-show all
-show exploits
-
-search 
-search -h
-
-show options (or 'options')
-
-run (or 'exploit')
-
-back
-
-use <module_name> (or 'use <module_no>')
-
-sessions
-
-connect
-
-setg
-
 workspace -h
 workspace
 workspace -l
 workspace -a <name>
-workspace (becomes <name>)
 workspace default
-workspace (becomes 'default')
+```
+
+- Others
+```
+help
+
+show all
+show exploits
+
+search -h
+
+use <module_name> (or 'use <module_no>')
+show options (or 'options')
+setg
+run (or 'exploit')
+back
+
+sessions
+sessions -i <session_id> (or 'sessions <session_id>')
+
+connect
+
+Ctrl + L
 ```
