@@ -5,6 +5,7 @@ Personal notes for penetration testing
 ## Information Gathering and Enumeration
 - [FTP](/Information%20Gathering%20and%20Enumeration/FTP.md)
 - [HTTP](/Information%20Gathering%20and%20Enumeration/HTTP.md)
+- [Nmap](/Information%20Gathering%20and%20Enumeration/Nmap.md)
 - [RDP](/Information%20Gathering%20and%20Enumeration/RDP.md)
 - [TShark](/Information%20Gathering%20and%20Enumeration/TShark.md)
 
