@@ -39,13 +39,15 @@ show exploits
 search -h
 
 use <module_name> (or 'use <module_no>')
-show options (or 'options')
-setg
-run (or 'exploit')
+info
+options (or 'show options')
+set <parameter> <value> (or 'setg')
+exploit (or 'run')
 back
 
 sessions
 sessions -i <session_id> (or 'sessions <session_id>')
+sessions -k <session_id>
 
 connect
 
