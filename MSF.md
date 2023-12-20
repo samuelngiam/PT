@@ -29,7 +29,7 @@ workspace -a <name>
 workspace default
 ```
 
-- Others
+- Other Useful Commands
 ```
 help
 
