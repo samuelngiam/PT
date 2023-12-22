@@ -10,7 +10,6 @@ Personal notes for penetration testing
 
 ## Exploitation
 - [BadBlue](/Exploitation/BadBlue.md)
-- [EternalBlue](/Exploitation/EternalBlue.md)
 - [Rejetto](/Exploitation/Rejetto.md)
 
 ## Post-Exploitation
