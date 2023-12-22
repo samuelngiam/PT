@@ -9,7 +9,6 @@ Personal notes for penetration testing
 - [TShark](/Information%20Gathering%20and%20Enumeration/TShark.md)
 
 ## Exploitation
-- [ARP Poisoning](/Exploitation/ARP-Poisoning.md)
 - [BadBlue](/Exploitation/BadBlue.md)
 - [EternalBlue](/Exploitation/EternalBlue.md)
 - [Rejetto](/Exploitation/Rejetto.md)
